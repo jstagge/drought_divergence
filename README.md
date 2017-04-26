@@ -31,8 +31,6 @@ For any description of this methodology, please use the following citation:
 * Stagge, J.H., Kingston, D., Tallaksen, L.M. and Hannah, D. (2017) "Observed drought indices show increasing divergence across Europe." Journal of Hydrology. In review, Geophysical Research Letters (GRL).
 
 
--->
-
 ## Authors
 
 * **James H. Stagge** - *Owner* - [jstagge](https://github.com/jstagge)
